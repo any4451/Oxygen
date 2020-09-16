@@ -5,8 +5,8 @@ $(function(){
         fade:true,
         speed: 500,
         centerMode:true,
-        prevArrow:  '<img class="slider-arrows slider-arrows__left" src="../images/icons/arrow-left.png" alt=""></img>',
-        nextArrow: '<img class="slider-arrows slider-arrows__right" src="../images/icons/arrow-right.png" alt=""></img>',
+        prevArrow:  '<img class="slider-arrows slider-arrows__left" src="./images/icons/arrow-left.png" alt=""></img>',
+        nextArrow: '<img class="slider-arrows slider-arrows__right" src="./images/icons/arrow-right.png" alt=""></img>',
        
     });
 
