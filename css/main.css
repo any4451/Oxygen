@@ -537,7 +537,7 @@ li.slick-active button {
   margin-right: 0;
 }
 .member__photo {
-  margin-bottom: 25px;
+  margin: 0 auto 20px;
 }
 .member__name {
   color: #333;
