@@ -120,7 +120,7 @@ textarea {
 }
 .header__content {
   height: 657px;
-  background: url(/images/img/header-bg.jpg) center center / cover no-repeat;
+  background: url(../images/img/header-bg.jpg) center center / cover no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: center;
